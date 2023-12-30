@@ -238,7 +238,12 @@ for x_column, y_column in feature_pairs:
 
     plt.show()
 ```
-![download](https://github.com/abrielspy/heart-failure-prediction/assets/149224844/45e3ebf8-91d9-442f-a7c9-8dbc91f6e59c)
+![download](https://github.com/abrielspy/heart-failure-prediction/assets/149224844/45e3ebf8-91d9-442f-a7c9-8dbc91f6e59c)<br>
+![download](https://github.com/abrielspy/heart-failure-prediction/assets/149224844/6ec5116f-1571-4b62-ab53-d78dc87d24e5)<br>
+![download](https://github.com/abrielspy/heart-failure-prediction/assets/149224844/0ca5d2db-3142-4f02-9b64-bed70f8be553)<br>
+![download](https://github.com/abrielspy/heart-failure-prediction/assets/149224844/8e74fadb-89d0-4044-8291-a532c6f7933b)<br>
+![download](https://github.com/abrielspy/heart-failure-prediction/assets/149224844/b1c86988-6827-44cc-8381-5ca066c1016f)<br>
+![download](https://github.com/abrielspy/heart-failure-prediction/assets/149224844/d3390240-95fe-4bde-b574-df1f1a44ac6a)<br>
 
 ## Evaluation
 Untuk tahap evaluasi disini saya menggunakan precision, recall, f1-score serta confusion matrix. Saya menggunakan 4 tool ini karena ianya sangat cocok untuk mengevaluasi algorithma yang digunakan untuk melakukan klasifikasi.
